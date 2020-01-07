@@ -1,0 +1,14 @@
+to became a devops engineer
+
+
+ 1.aws(cloud) & google cloud platform
+ 2.linux(using aws)
+ 3.data base(mysql&etc)
+ 4.docker & kubernets
+ 5.web server & app server
+ 6.shell scripting (bash or perl or python)
+ 7.nagios (monitoring tool)
+ 8.version control system(git)
+ 9.continuous intergration(jenkins) 
+ 10.chef or ansible
+ 11.ELK (elastic search)
